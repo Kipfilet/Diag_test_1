@@ -26,7 +26,7 @@
         }
         else 
         {
-            echo ("De kengte calt buiten de range, probeer het opnieuw \n");
+            echo ("De lengte valt buiten de range, probeer het opnieuw \n");
             $length[$i] = 0;
             $i--; 
         }
